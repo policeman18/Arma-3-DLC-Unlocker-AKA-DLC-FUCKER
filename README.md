@@ -17,7 +17,7 @@ This will alow you to use DLC content in-game.
       EXAMPLE. 
             #include "dialog\MasterHandler.hpp"
             #include "Config_Master.hpp"
-# ADD THIS > #include "dlc_fucker.sqf"
+ADD THIS > #include "dlc_fucker.sqf"
   - re-PBO your mission.
   - YOU ARE DONE.
   
